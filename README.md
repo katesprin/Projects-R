@@ -26,8 +26,8 @@ The notebook emphasizes reproducibility, clarity, and professional presentation.
 - R
 - Jupyter Notebook
 - tidyverse (ggplot2, dplyr)
--caret
--xgboost
+- caret
+- xgboost
 
 ## Notes
 - Data files may be excluded due to size or access restrictions
