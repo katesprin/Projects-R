@@ -20,7 +20,7 @@ The notebook emphasizes reproducibility, clarity, and professional presentation.
 ## How to View
 - **Best option:** Open `Project_Nikitina.html` in a web browser
 - **GitHub preview:** View the notebook directly on GitHub
-- **NBViewer:** Paste the notebook URL into https://nbviewer.org for best rendering
+- **NBViewer:** Paste the notebook URL: https://github.com/katesprin/ProjectAirbnbUsingR/blob/a16e1b600152905482c02bbf9a49b8d8292f5834/Project_Nikitina.ipynb into https://nbviewer.org for best rendering
 
 ## Tools and Technologies
 - R
