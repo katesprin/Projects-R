@@ -24,10 +24,10 @@ The notebook emphasizes reproducibility, clarity, and professional presentation.
 
 ## Tools and Technologies
 - Jupyter Notebook
-- R
-- tidyverse (ggplot2, dplyr)
-- caret
-- xgboost
+- R:
+  - tidyverse (ggplot2, dplyr)
+  - caret
+  - xgboost
 
 ## Notes
 - Data files may be excluded due to size or access restrictions
